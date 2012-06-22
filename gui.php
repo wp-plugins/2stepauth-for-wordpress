@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: 2StepAuth
+Plugin URI: http://techozens.com/2094/2stepauth-wordpress-plugin
 Description: 2StepAuth <strong>increases security</strong> of Wordpress blogs by adding <strong>2nd level of Authentication.</strong> After entering correct login credentials, the user has to validate himself using one of 3 ways: SMS Verification, Backup Codes or Email Verification to gain access to his/her blog.
 Version: 1.0
 Author: Rajesh Chaukwale
