@@ -57,7 +57,7 @@ If you dont have TextMagic or SMSGlobal account, SMS Verification feature won't 
 You can skip it and proceed to Step 3. Make sure you generate and save Backup Codes from Step 3.
 
 = What type of users are supported? =
-2StepAuth supports users with 'Administrator' privilege. Other users won't feel the presence of 2StepAuth and they will be redirected to Dashboard on correct login.
+2StepAuth is enabled for users with 'Administrator' privilege. Other users won't feel the presence of 2StepAuth and they will be redirected to Dashboard on correct login.
 
 = Does 2StepAuth supports multiple users(Administrators)? = 
 Yes, 2StepAuth recognizes different Administrators and supports blogs with multiple Admins.
